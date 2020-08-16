@@ -1,0 +1,22 @@
+
+.wrap.data-v-57280228 {
+	padding-left: 20rpx;
+	padding-right: 20rpx;
+}
+.page-section-spacing.data-v-57280228{
+  margin-top: 60rpx;
+}
+.scroll-view_H.data-v-57280228{
+  white-space: nowrap;
+}
+.scroll-view-item.data-v-57280228{
+	width: 100%;
+	height: 300rpx;
+}
+.scroll-view-item_H.data-v-57280228{
+	display: inline-block;
+	height: 300rpx;
+	width: 75%;
+	padding-left: 10rpx;
+}
+
